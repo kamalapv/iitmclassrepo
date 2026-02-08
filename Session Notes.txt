@@ -1,0 +1,74 @@
+Compiled 
+	- Generics, List<int> listObj = new List<int>();
+Python [High Level Programming Lang.]
+	- Simple Syntax - Notations/Symbols/Shortcuts
+	- Interpreted
+	- Support multiple Data Types - Numeric Data, Text, Date, Boolean…
+	- Data Sets
+		○ Collections - Lists[], Tuples(), Set{}, Dictionary{}
+			§ Data Operations - Add, Retrieval, Delete, Traversal, Modification, Reversal
+	- Programming Constructs
+		○ Conditions
+		○ Loops/Iterative
+	- Object Oriented Programming
+	- IDE/Environment 
+	- Packages/Modules/Classes/Functions
+		○ Base Resources 
+			§ Preexisting Libraries(Download)
+			§ Custom Resources [Domain Specific]
+		○ End User Resources
+
+Class Data Members - Accessed using Self keyword, available to all class functions eg. accid, owner, balance
+Local Variable - defined and accessible within function eg. Amount
+Global Variable - defined outside class, shared across instances
+
+Inheritance - Gen-Spec Implementation
+
+Maths
+	- Scalars and Vectors
+	- Matrix Operations
+	- Determinants
+	- Derivatives and gradients
+Statistics
+	- Mean, Median, Mode
+	- Variance
+	- Probability
+		○ Permutations and Combinations
+	- Hypothesis
+	- Regression
+
+How to do Mathematical Modeling in Python? - GeeksforGeeks
+NumPy - Mathematical Python
+PyPedia/Applying-Math-with-Python: Applying Math with Python
+Implementing Mathematical Formulas in Python
+Mathematics And Python Programming: Powering Data Science And Machine Learning Innovation
+Mastering Math in Python: A Comprehensive Guide - CodeRivers
+
+
+Data Storage
+	1) Structured Data
+		a. Excel, RDBMS - SQL 
+		b. ACID Principles
+		c. Indexing and Partitioning
+		d. ER Diagrams - 1-m, m-1, 1-1
+		e. Anomalies - Insert, Update, Delete
+		f. Normalization - Break the Entities into Tables
+		g. Relational Data Retrieval - Joins, Association[PK and FK]
+	2) Semi structured Data
+		a. NoSQL, Schemaless, Dynamic Schema
+		b. Document, Graph, Key-Value
+		c. JSON
+	3) Unstructured Data
+		a. Text Blob/Files
+		b. Images/Videos/Icons/Audio
+
+SCM - Source Control Management
+	- Versioning/Mapping the Code changes
+	- Tracking New Features or Updates
+	- New Libs -> New Features 
+	- SCM Types
+		○ Distributed SCM(Git, GitLab, BitBucket, Azure Repos…) - Pull and Push
+		○ Centralized SCM(Tortoise SVN, SharePoint) - Check In and Check Out
+	- Git Steps
+		○ Download the Git SCM
+		○ Install and Configure [Credentials]
